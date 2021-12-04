@@ -1,7 +1,7 @@
-import database
+import models.database
 
 
-class Categorias(database.Connect):
+class Categorias(models.database.Connect):
     def __init__(self):
         super().__init__()
         self.collection = self.database["Categorias"]

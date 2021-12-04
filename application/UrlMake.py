@@ -1,4 +1,5 @@
 import models.URLs
+import models.Categorias
 import re
 import datetime
 
@@ -6,6 +7,7 @@ import datetime
 class UrlMake:
     def __init__(self):
         self.URL = models.URLs.URLs()
+        self.CATEGORIAS = models.Categorias.Categorias()
         pass
 
     def generate_url(self):
@@ -18,5 +20,17 @@ class UrlMake:
             arr.append({
                 "lastmod": data.strftime("%Y-%m-%d"),
                 "url": "https://zapgrupos.xyz/" + re.sub(" ", "-", i["categoria"]) + "/" + str(i["_id"])
+            })
+        for i in self.CATEGORIAS.select_all_active_categories():
+            try:
+                data = i["updated_at"]
+            except KeyError:
+                try:
+                    data = i["created_at"]
+                except KeyError:
+                    data = datetime.datetime.strptime('2021-12-01', '%Y-%m-%d')
+            arr.append({
+                "lastmod": data.strftime("%Y-%m-%d"),
+                "url": "https://zapgrupos.xyz/" + re.sub(" ", "-", i["categoria"])
             })
         return arr
