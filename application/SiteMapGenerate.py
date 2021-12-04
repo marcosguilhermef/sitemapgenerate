@@ -1,4 +1,7 @@
 import application.UrlMake
+from dotenv import dotenv_values
+from bs4 import BeautifulSoup
+config = dotenv_values(".env")
 
 
 class SiteMapGenerate:
@@ -6,8 +9,10 @@ class SiteMapGenerate:
         pass
 
     def save(self):
-        r = open("sitemap.xml", "a+")
-        r.write(self.str)
+        r = open(f'{config["SAVE_IMAGE_DIRECTORY"]}/sitemap.xml', "a+")
+        bs = BeautifulSoup(self.str, 'xml')
+        pretty_xml = bs.prettify()
+        r.write(pretty_xml)
         r.close()
 
     def xml_wirite(self):
