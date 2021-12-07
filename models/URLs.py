@@ -1,4 +1,5 @@
 import models.database
+import random
 
 
 class URLs(models.database.Connect):
@@ -10,4 +11,12 @@ class URLs(models.database.Connect):
         arr = self.collection.find({"ativo": True})
         return arr
 
+    def select_randon_active_urls(self):
+        length = self.collection.count_documents({"ativo": True})
+        print(length)
+        arr = self.collection.find({"ativo": True}).limit(-1).skip(random.randrange(1, length))
+        return arr
 
+# A = URLs()
+
+# print(list(A.select_randon_active_urls()))

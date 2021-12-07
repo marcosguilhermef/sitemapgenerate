@@ -8,7 +8,6 @@ class UrlMake:
     def __init__(self):
         self.URL = models.URLs.URLs()
         self.CATEGORIAS = models.Categorias.Categorias()
-        pass
 
     def generate_url(self):
         arr = []
@@ -34,3 +33,8 @@ class UrlMake:
                 "url": "https://zapgrupos.xyz/" + re.sub(" ", "-", i["categoria"])
             })
         return arr
+
+    def generate_one_url(self):
+        register = list(self.URL.select_randon_active_urls())
+        url = "https://zapgrupos.xyz/" + re.sub(" ", "-", register[0]["categoria"]) + "/" + str(register[0]["_id"])
+        return url

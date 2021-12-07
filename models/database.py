@@ -17,3 +17,4 @@ class Connect:
             print(self.client.server_info())
         except Exception:
             print("Unable to connect to the server.")
+
