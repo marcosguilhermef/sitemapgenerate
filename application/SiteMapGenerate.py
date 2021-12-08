@@ -1,7 +1,7 @@
 import application.UrlMake
-from dotenv import dotenv_values
+from dotenv import dotenv_values,find_dotenv
 from bs4 import BeautifulSoup
-config = dotenv_values(".env")
+config = dotenv_values(find_dotenv())
 
 
 class SiteMapGenerate:
