@@ -8,10 +8,13 @@ class EnviarLinkTelegram:
 
     def run(self):
         URL = application.UrlMake.UrlMake()
-        message = {
-            "chat_id": "-1001593526027",
-            "text": URL.generate_one_url(),
-            "disable_web_page_preview": False
-        }
-        T = application.TelegramBot.TelegramBot().sendMessage(message).getResponse()
+        chat_id = ["-1001593526027", "-1001703894032"]
+        T = []
+        for i in chat_id:
+            message = {
+                "chat_id": i,
+                "text": URL.generate_one_url(),
+                "disable_web_page_preview": False
+            }
+            T.append(application.TelegramBot.TelegramBot().sendMessage(message).getResponse().json())
         return T
