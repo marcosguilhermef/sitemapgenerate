@@ -10,7 +10,7 @@ class EnviarLinkTelegram:
         URL = application.UrlMake.UrlMake()
         chat_id = ["-1001593526027", "-1001703894032"]
         T = []
-        url = URL.generate_one_url()
+        url = URL.get_url_whatsapp()
         for i in chat_id:
             message = {
                 "chat_id": i,
