@@ -1,0 +1,844 @@
+init
+27230
+[{'ok': True, 'result': {'message_id': 1219, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641783333, 'text': 'https://chat.whatsapp.com/BnBq7C5CwPO8lOg4GPi9OL', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 667, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641783334, 'text': 'https://chat.whatsapp.com/BnBq7C5CwPO8lOg4GPi9OL', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+27230
+[{'ok': True, 'result': {'message_id': 1220, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641790535, 'text': 'https://chat.whatsapp.com/CsAf5GBKXyoAlmbdAAZyjJ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 668, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641790535, 'text': 'https://chat.whatsapp.com/CsAf5GBKXyoAlmbdAAZyjJ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+27225
+[{'ok': True, 'result': {'message_id': 1221, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641797736, 'text': 'https://chat.whatsapp.com/I5qwyROoncm1nhj937raJU', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 669, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641797737, 'text': 'https://chat.whatsapp.com/I5qwyROoncm1nhj937raJU', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+27148
+[{'ok': True, 'result': {'message_id': 1222, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641804938, 'text': 'https://chat.whatsapp.com/Kq6QMivyrhXEgSeShXPJnP', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 670, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641804938, 'text': 'https://chat.whatsapp.com/Kq6QMivyrhXEgSeShXPJnP', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+26990
+[{'ok': True, 'result': {'message_id': 1223, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641812140, 'text': 'https://chat.whatsapp.com/Bk6yjqM0wqPKYWbtZ0YkhW', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 671, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641812141, 'text': 'https://chat.whatsapp.com/Bk6yjqM0wqPKYWbtZ0YkhW', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+26990
+[{'ok': True, 'result': {'message_id': 1224, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641819342, 'text': 'https://chat.whatsapp.com/HcZlCLA1q8Y34mDEZGzHR0', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 672, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641819342, 'text': 'https://chat.whatsapp.com/HcZlCLA1q8Y34mDEZGzHR0', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+26990
+[{'ok': True, 'result': {'message_id': 1225, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641826543, 'text': 'https://chat.whatsapp.com/HcXAeGI8J7VJ8qQOrKACnk', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 673, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641826544, 'text': 'https://chat.whatsapp.com/HcXAeGI8J7VJ8qQOrKACnk', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+26990
+[{'ok': True, 'result': {'message_id': 1226, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641833745, 'text': 'https://chat.whatsapp.com/IJDhKJDyjpdILFP7PIgoi0', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 674, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641833745, 'text': 'https://chat.whatsapp.com/IJDhKJDyjpdILFP7PIgoi0', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+26990
+[{'ok': True, 'result': {'message_id': 1227, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641840947, 'text': 'https://chat.whatsapp.com/LBzo1awDNiVAah9CHaF9U1', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 675, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641840947, 'text': 'https://chat.whatsapp.com/LBzo1awDNiVAah9CHaF9U1', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+26990
+[{'ok': True, 'result': {'message_id': 1228, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641848148, 'text': 'https://chat.whatsapp.com/KZa02hyT5uPF5weCwiWmct', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 676, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641848149, 'text': 'https://chat.whatsapp.com/KZa02hyT5uPF5weCwiWmct', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+26990
+[{'ok': True, 'result': {'message_id': 1229, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641855350, 'text': 'https://chat.whatsapp.com/FKo16UdIYIJ1G9L4NUWVzJ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 677, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641855351, 'text': 'https://chat.whatsapp.com/FKo16UdIYIJ1G9L4NUWVzJ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+26990
+[{'ok': True, 'result': {'message_id': 1230, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641862552, 'text': 'https://chat.whatsapp.com/GkqKLMiiRl96H8B5ePjXp0', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 678, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641862553, 'text': 'https://chat.whatsapp.com/GkqKLMiiRl96H8B5ePjXp0', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+26990
+[{'ok': True, 'result': {'message_id': 1231, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641869754, 'text': 'https://chat.whatsapp.com/IhDwcUBBIHTJhiCjWEUgVI', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 679, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641869754, 'text': 'https://chat.whatsapp.com/IhDwcUBBIHTJhiCjWEUgVI', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+26990
+[{'ok': True, 'result': {'message_id': 1232, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641876955, 'text': 'https://chat.whatsapp.com/F9faVkzlpu89EiiOLIOPCt', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 680, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641876956, 'text': 'https://chat.whatsapp.com/F9faVkzlpu89EiiOLIOPCt', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+26990
+[{'ok': True, 'result': {'message_id': 1233, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641884157, 'text': 'https://chat.whatsapp.com/BCGGfmJZCBtDCeE3ATkgWW', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 681, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641884158, 'text': 'https://chat.whatsapp.com/BCGGfmJZCBtDCeE3ATkgWW', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30960
+[{'ok': True, 'result': {'message_id': 1234, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641891359, 'text': 'https://chat.whatsapp.com/JBkb5fylD7s0LLUfKWYWyD', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 682, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641891359, 'text': 'https://chat.whatsapp.com/JBkb5fylD7s0LLUfKWYWyD', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30963
+[{'ok': True, 'result': {'message_id': 1235, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641898560, 'text': 'https://chat.whatsapp.com/KZWHyPHYElK0Gdv2BEEphh', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 683, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641898561, 'text': 'https://chat.whatsapp.com/KZWHyPHYElK0Gdv2BEEphh', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30932
+[{'ok': True, 'result': {'message_id': 1236, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641905762, 'text': 'https://chat.whatsapp.com/C9ymD3ZlCZ51xnyXVXHKiO', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 684, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641905763, 'text': 'https://chat.whatsapp.com/C9ymD3ZlCZ51xnyXVXHKiO', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30903
+[{'ok': True, 'result': {'message_id': 1237, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641912964, 'text': 'https://chat.whatsapp.com/D1ESsJYwnMs7WJWCBPKulR', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 685, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641912964, 'text': 'https://chat.whatsapp.com/D1ESsJYwnMs7WJWCBPKulR', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29739
+[{'ok': True, 'result': {'message_id': 1238, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641920165, 'text': 'https://chat.whatsapp.com/Iy2MkDsCRwmI9UW7saODIr', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 686, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641920166, 'text': 'https://chat.whatsapp.com/Iy2MkDsCRwmI9UW7saODIr', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29739
+[{'ok': True, 'result': {'message_id': 1239, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641927367, 'text': 'https://chat.whatsapp.com/Bec8LbrywUkHClzGiA65Kx', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 687, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641927368, 'text': 'https://chat.whatsapp.com/Bec8LbrywUkHClzGiA65Kx', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29739
+[{'ok': True, 'result': {'message_id': 1240, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641934569, 'text': 'https://chat.whatsapp.com/HU0Cgh68BTFLdJBHziL3c7', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 688, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641934570, 'text': 'https://chat.whatsapp.com/HU0Cgh68BTFLdJBHziL3c7', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29739
+[{'ok': True, 'result': {'message_id': 1241, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641941771, 'text': 'https://chat.whatsapp.com/CeMNUsCGLtKIOUJRbmkob9', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 689, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641941772, 'text': 'https://chat.whatsapp.com/CeMNUsCGLtKIOUJRbmkob9', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29739
+[{'ok': True, 'result': {'message_id': 1243, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641948973, 'text': 'https://chat.whatsapp.com/L6yx4NbmR6fGr4aUGiYuyZ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 690, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641948973, 'text': 'https://chat.whatsapp.com/L6yx4NbmR6fGr4aUGiYuyZ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29739
+[{'ok': True, 'result': {'message_id': 1244, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641956174, 'text': 'https://chat.whatsapp.com/HftFoquWoo8HTVLlNGfPr9', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 691, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641956175, 'text': 'https://chat.whatsapp.com/HftFoquWoo8HTVLlNGfPr9', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29739
+[{'ok': True, 'result': {'message_id': 1245, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641963376, 'text': 'https://chat.whatsapp.com/IA4qBGZyF1sHLgFsDFscy3', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 692, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641963377, 'text': 'https://chat.whatsapp.com/IA4qBGZyF1sHLgFsDFscy3', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29739
+[{'ok': True, 'result': {'message_id': 1246, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641970578, 'text': 'https://chat.whatsapp.com/Iw0ZvxvaxVTHBX6gHhhjVB', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 693, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641970578, 'text': 'https://chat.whatsapp.com/Iw0ZvxvaxVTHBX6gHhhjVB', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30329
+[{'ok': True, 'result': {'message_id': 1247, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641977779, 'text': 'https://chat.whatsapp.com/GhgwBub1hyA2s10ePrMZpA', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 694, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641977780, 'text': 'https://chat.whatsapp.com/GhgwBub1hyA2s10ePrMZpA', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30329
+[{'ok': True, 'result': {'message_id': 1248, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641984981, 'text': 'https://chat.whatsapp.com/Gjw4mq8BLwjGI0ukzL6RbO', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 695, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641984981, 'text': 'https://chat.whatsapp.com/Gjw4mq8BLwjGI0ukzL6RbO', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30329
+[{'ok': True, 'result': {'message_id': 1249, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641992182, 'text': 'https://chat.whatsapp.com/DLSlRa212XLIB946NGnDVa', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 696, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641992183, 'text': 'https://chat.whatsapp.com/DLSlRa212XLIB946NGnDVa', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30331
+[{'ok': True, 'result': {'message_id': 1250, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1641999384, 'text': 'https://chat.whatsapp.com/JKgYEIfVOXS41B3XUSksqS', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 697, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1641999385, 'text': 'https://chat.whatsapp.com/JKgYEIfVOXS41B3XUSksqS', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30331
+[{'ok': True, 'result': {'message_id': 1251, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642006586, 'text': 'https://chat.whatsapp.com/CtmU9jRBwf1AI1qgW3JSoX', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 698, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642006587, 'text': 'https://chat.whatsapp.com/CtmU9jRBwf1AI1qgW3JSoX', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30331
+[{'ok': True, 'result': {'message_id': 1252, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642013788, 'text': 'https://chat.whatsapp.com/G3jyXsdou3A5OjOJ2KNps0', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 699, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642013788, 'text': 'https://chat.whatsapp.com/G3jyXsdou3A5OjOJ2KNps0', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30331
+[{'ok': True, 'result': {'message_id': 1253, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642020989, 'text': 'https://chat.whatsapp.com/EYQOyJpQRLx05ERWA1ycxK', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 700, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642020990, 'text': 'https://chat.whatsapp.com/EYQOyJpQRLx05ERWA1ycxK', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30331
+[{'ok': True, 'result': {'message_id': 1254, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642028191, 'text': 'https://chat.whatsapp.com/LpM58cUk4ztFIIZ1e3c9iU', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 701, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642028192, 'text': 'https://chat.whatsapp.com/LpM58cUk4ztFIIZ1e3c9iU', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30331
+[{'ok': True, 'result': {'message_id': 1255, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642035393, 'text': 'https://chat.whatsapp.com/FCqqhT62wG64xPuthE6Qmd', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 702, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642035394, 'text': 'https://chat.whatsapp.com/FCqqhT62wG64xPuthE6Qmd', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30295
+[{'ok': True, 'result': {'message_id': 1256, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642042595, 'text': 'https://chat.whatsapp.com/Ip4wqfn1fXEHAtKcNAV40f', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 703, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642042596, 'text': 'https://chat.whatsapp.com/Ip4wqfn1fXEHAtKcNAV40f', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30264
+[{'ok': True, 'result': {'message_id': 1257, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642049797, 'text': 'https://chat.whatsapp.com/JLqYDSwM3O24FAGewDIT6B', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 704, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642049797, 'text': 'https://chat.whatsapp.com/JLqYDSwM3O24FAGewDIT6B', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+30107
+[{'ok': True, 'result': {'message_id': 1258, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642056998, 'text': 'https://chat.whatsapp.com/CUncVn4FLj2LGJFkflAatZ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 705, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642056999, 'text': 'https://chat.whatsapp.com/CUncVn4FLj2LGJFkflAatZ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29870
+[{'ok': True, 'result': {'message_id': 1259, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642064200, 'text': 'https://chat.whatsapp.com/CDaso8pDeXz7Iy1YeLQdBw', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 706, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642064200, 'text': 'https://chat.whatsapp.com/CDaso8pDeXz7Iy1YeLQdBw', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29870
+[{'ok': True, 'result': {'message_id': 1260, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642071401, 'text': 'https://chat.whatsapp.com/EPxCZEHS8JE87kgoP8o0AE', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 707, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642071402, 'text': 'https://chat.whatsapp.com/EPxCZEHS8JE87kgoP8o0AE', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29870
+[{'ok': True, 'result': {'message_id': 1261, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642078603, 'text': 'https://chat.whatsapp.com/C3UZqoukRxnE0NcyRtOUOQ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 708, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642078604, 'text': 'https://chat.whatsapp.com/C3UZqoukRxnE0NcyRtOUOQ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29870
+[{'ok': True, 'result': {'message_id': 1262, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642085805, 'text': 'https://chat.whatsapp.com/HsZOh6LlY0eLwEcVKENptm', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 709, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642085805, 'text': 'https://chat.whatsapp.com/HsZOh6LlY0eLwEcVKENptm', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29870
+[{'ok': True, 'result': {'message_id': 1263, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642093006, 'text': 'https://chat.whatsapp.com/CGX5aSaLvdV9Bg7qiBpa7G', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 710, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642093007, 'text': 'https://chat.whatsapp.com/CGX5aSaLvdV9Bg7qiBpa7G', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29870
+[{'ok': True, 'result': {'message_id': 1264, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642100208, 'text': 'https://chat.whatsapp.com/IEMJl84MBu17oaDKdS2c9R', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 711, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642100209, 'text': 'https://chat.whatsapp.com/IEMJl84MBu17oaDKdS2c9R', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29870
+[{'ok': True, 'result': {'message_id': 1265, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642107410, 'text': 'https://chat.whatsapp.com/L0lvfuU23WDIl8JYDJAr9S', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 712, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642107410, 'text': 'https://chat.whatsapp.com/L0lvfuU23WDIl8JYDJAr9S', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29870
+[{'ok': True, 'result': {'message_id': 1266, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642114611, 'text': 'https://chat.whatsapp.com/KGro89qFmXA2rIkP0ngLRm', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 713, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642114612, 'text': 'https://chat.whatsapp.com/KGro89qFmXA2rIkP0ngLRm', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29870
+[{'ok': True, 'result': {'message_id': 1267, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642121813, 'text': 'https://chat.whatsapp.com/LPpAXRviFShGBYa8xhWVFs', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 714, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642121814, 'text': 'https://chat.whatsapp.com/LPpAXRviFShGBYa8xhWVFs', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29870
+[{'ok': True, 'result': {'message_id': 1268, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642129015, 'text': 'https://chat.whatsapp.com/Ha3kuLT0L3I7BQhkwaLwHL', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 715, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642129016, 'text': 'https://chat.whatsapp.com/Ha3kuLT0L3I7BQhkwaLwHL', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29870
+[{'ok': True, 'result': {'message_id': 1269, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642136217, 'text': 'https://chat.whatsapp.com/JPBLS39WbEBIUiZcARGRBS', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 716, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642136217, 'text': 'https://chat.whatsapp.com/JPBLS39WbEBIUiZcARGRBS', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29870
+[{'ok': True, 'result': {'message_id': 1270, 'from': {'id': 5088318170, 'is_bot': True, 'first_name': 'wpgrupos', 'username': 'wpgrupos_bot'}, 'chat': {'id': -1001593526027, 'title': 'Wp grupos', 'username': 'wpgrupos', 'type': 'supergroup'}, 'date': 1642143418, 'text': 'https://chat.whatsapp.com/K8dNXCDcWuWArh77R0UtZ1', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}, {'ok': True, 'result': {'message_id': 717, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642143419, 'text': 'https://chat.whatsapp.com/K8dNXCDcWuWArh77R0UtZ1', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29870
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 719, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642150620, 'text': 'https://chat.whatsapp.com/CBWavGr9CZpKgPg9GQmkn3', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29862
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 720, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642157821, 'text': 'https://chat.whatsapp.com/BpXIYVJjUwD5H4vupyuWEp', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29830
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 721, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642165023, 'text': 'https://chat.whatsapp.com/FECFqyjV4dU3YIRqRbnBcw', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29675
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 722, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642172224, 'text': 'https://chat.whatsapp.com/JnGhJKSEM0O6DMUwqWJTBR', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 723, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642179426, 'text': 'https://chat.whatsapp.com/HwqZiRyvSirKQB8pBvEHJK', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 724, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642186627, 'text': 'https://chat.whatsapp.com/CrqFBgjyYZCDe9a13ZoG3T', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 725, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642193828, 'text': 'https://chat.whatsapp.com/FAPFAzIIGJMK5D4W8I2SA5', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 726, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642201030, 'text': 'https://chat.whatsapp.com/GUGLgV1n4EFI5weqXpoEoo', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 727, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642208231, 'text': 'https://chat.whatsapp.com/HAEXso08z7h0CdbZCk6EcI', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 728, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642215432, 'text': 'https://chat.whatsapp.com/BoPSMcnAajlLEcjBDbhkJ1', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 729, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642222634, 'text': 'https://chat.whatsapp.com/GakGqSAikCRC4E3jZMmYP7', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 730, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642229835, 'text': 'https://chat.whatsapp.com/DdGDhJlM7P4JJ4270VOHJx', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 731, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642237036, 'text': 'https://chat.whatsapp.com/HU5RTHfmjZvJoyP26cSojy', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 732, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642244237, 'text': 'https://chat.whatsapp.com/K9LvhW6SPY08FXVZCLmlQ7', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 733, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642251439, 'text': 'https://chat.whatsapp.com/KI2WNJLis0IJ4QwU7nTzbW', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 734, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642258640, 'text': 'https://chat.whatsapp.com/LSOpUvxLGwSEYUjPiJq29e', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 735, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642265841, 'text': 'https://chat.whatsapp.com/H38QPTGAoTcJIAhTP2TQeV', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 736, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642273043, 'text': 'https://chat.whatsapp.com/DA4ftMJ4Aqq17iwPEPKVcu', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 737, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642280244, 'text': 'https://chat.whatsapp.com/H8Tf1Cn9VXcIvAOx6KCn8c', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 738, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642287445, 'text': 'https://chat.whatsapp.com/FTfZvmqqTWPBUxsH1jX1vG', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 739, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642294647, 'text': 'https://chat.whatsapp.com/DTQr6GprM0RJ6pkwhpgoex', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29668
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 740, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642301848, 'text': 'https://chat.whatsapp.com/CVqKxHg7sZ691QL3UaAQ0d', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29669
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 741, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642309049, 'text': 'https://chat.whatsapp.com/Iqu3ZktYbKL8bq7aPNyUqC', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29669
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 742, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642316251, 'text': 'https://chat.whatsapp.com/GuJA1FHnr5gHGcFMYlsZT9', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29669
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 743, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642323452, 'text': 'https://chat.whatsapp.com/DUV1zbBwQOBDdEoq5txThD', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29646
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 744, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642330654, 'text': 'https://chat.whatsapp.com/BSJmI84PEO4LuyW5jj7jt2', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29591
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 746, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642337855, 'text': 'https://chat.whatsapp.com/EQfzRnWV5gOIyN2xfxEc7M', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29380
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 747, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642345056, 'text': 'https://chat.whatsapp.com/GZR9RtwHH5ZCKPIeDPg1Ad', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29380
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 748, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642352258, 'text': 'https://chat.whatsapp.com/KOz76TUnIfNA1O4EA8TvIn', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29380
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 749, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642359459, 'text': 'https://chat.whatsapp.com/GkC1y9qIQ9GDikC4z6Nb6g', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29380
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 750, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642366661, 'text': 'https://chat.whatsapp.com/K2VDtHzMMoZEBz79cYOllX', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29380
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 751, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642373862, 'text': 'https://chat.whatsapp.com/HyysTwmxC6gJxyjBYaWmqQ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29380
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 752, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642381063, 'text': 'https://chat.whatsapp.com/KlOtliZWzPC4N4SIpwJbCe', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29380
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 753, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642388265, 'text': 'https://chat.whatsapp.com/BlLVVh4sKD811ej8DB5fs3', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29380
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 754, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642395466, 'text': 'https://chat.whatsapp.com/Cy3Hs6A6hO1G2x2ivZefas', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29380
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 755, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642402668, 'text': 'https://chat.whatsapp.com/IvNEbLwyjlaG9gtQwC0ecR', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29380
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 756, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642409869, 'text': 'https://chat.whatsapp.com/Lx7vCLR4b6fLae7OwTAZPi', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29380
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 757, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642417070, 'text': 'https://chat.whatsapp.com/E5CiLsEuHVtARJEoTwt0iU', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29376
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 758, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642424272, 'text': 'https://chat.whatsapp.com/LCTQn1uHLb11fam45rFwwq', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29337
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 759, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642431473, 'text': 'https://chat.whatsapp.com/G0CJ60f3NMM1Kz2FFJZO48', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29259
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 760, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642438675, 'text': 'https://chat.whatsapp.com/IPknP97ILM9EXwE0cESzrf', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 761, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642445876, 'text': 'https://chat.whatsapp.com/KHr5HFaNYNgDUYSYowS746', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 762, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642453077, 'text': 'https://chat.whatsapp.com/CzNBYtC2W4CIsCN9wyGVuo', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 763, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642460279, 'text': 'https://chat.whatsapp.com/KHpOaLa5HDHGI0jZkHwsTZ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 764, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642467480, 'text': 'https://chat.whatsapp.com/CRcO9WEN8wVDLHR66wIMyG', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 765, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642474681, 'text': 'https://chat.whatsapp.com/Bwr2KWMRAnNAQrWwIXz3mp', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 766, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642481883, 'text': 'https://chat.whatsapp.com/DlfuvctFm5ZJUbYj1gj3EU', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 767, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642489084, 'text': 'https://chat.whatsapp.com/Hln6YKq0SsJ1Fg1kJO6dm0', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 768, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642496286, 'text': 'https://chat.whatsapp.com/HnLpf1nxz6SI3qhLDAEKPT', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 769, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642503487, 'text': 'https://chat.whatsapp.com/LNHaiHw8RIXA9O3nrz4CPK', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 770, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642510688, 'text': 'https://chat.whatsapp.com/DbLWzZF6XBUCG6OjrduvlP', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 771, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642517890, 'text': 'https://chat.whatsapp.com/DGxQU2gCItxKYdrA9mZB8Q', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 774, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642525091, 'text': 'https://chat.whatsapp.com/GHEA4KErJ5RDtujbLv28mc', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 776, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642532292, 'text': 'https://chat.whatsapp.com/BqkvfebLyUN4AIO0l9uCx2', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 777, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642539494, 'text': 'https://chat.whatsapp.com/GDtNE99BGVm2lCAL0sXCtd', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 778, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642546695, 'text': 'https://chat.whatsapp.com/JF5DrcKVtfO7A4hUtqkwkm', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 779, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642553896, 'text': 'https://chat.whatsapp.com/Jln02MA02Yi4lFLMME70Ap', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 780, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642561098, 'text': 'https://chat.whatsapp.com/CQk4lhcXYUy0yL5yncjj4C', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 781, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642568299, 'text': 'https://chat.whatsapp.com/Fza2ed3tA8w7m8OjZQj5V9', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 783, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642575500, 'text': 'https://chat.whatsapp.com/EkKKTO6tqRA4VtvBIkQZEZ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 784, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642582701, 'text': 'https://chat.whatsapp.com/DCtQhXMoLhD31x8n4Pq3Pd', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 785, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642589903, 'text': 'https://chat.whatsapp.com/KsC795BA4AtJlONNR20F4B', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 786, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642597104, 'text': 'https://chat.whatsapp.com/HJRZ7MnYdNiJBIiVhzHJSa', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 787, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642604306, 'text': 'https://chat.whatsapp.com/JY4zSHCUmmjJRTGOH2EaPE', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 788, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642611507, 'text': 'https://chat.whatsapp.com/GtWCZwa03IK7Pk6c8ShB1q', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 789, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642618709, 'text': 'https://chat.whatsapp.com/H0KK9r1OCG7KNdaedzLAh9', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 790, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642625910, 'text': 'https://chat.whatsapp.com/BqrG2jwOklWLGuoFXNStA3', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 791, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642633112, 'text': 'https://chat.whatsapp.com/GTZAxkZ4kaw0XQeSH0LBVz', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 792, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642640313, 'text': 'https://chat.whatsapp.com/Hb0qS1hwJmoHaLTaJNPSRI', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 793, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642647515, 'text': 'https://chat.whatsapp.com/CvNZNpAuNA6JmUkhGuB5Fn', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 795, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642654716, 'text': 'https://chat.whatsapp.com/Cgaby5RuYXo7MP1NEVbi7B', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 796, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642661917, 'text': 'https://chat.whatsapp.com/DDM8MGeAnZPBOJltlqkFmk', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 797, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642669119, 'text': 'https://chat.whatsapp.com/GJgvQfcdXNlCjXjz50NH23', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 798, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642676320, 'text': 'https://chat.whatsapp.com/CNtwPb4YXkl2mrzRmezSb7', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 799, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642683521, 'text': 'https://chat.whatsapp.com/KhPxZqhy22E7rt9gSXLQQB', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 800, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642690723, 'text': 'https://chat.whatsapp.com/HHQP99FjVIOL6SDoYdysjf', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 801, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642697924, 'text': 'https://chat.whatsapp.com/Bcew1r5eE1b92FW2sZP96C', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 802, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642705126, 'text': 'https://chat.whatsapp.com/Iz280rs1ngVASefZhhoq45', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 803, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642712327, 'text': 'https://chat.whatsapp.com/HZekvbxhSh7DrhbbLJWqCX', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29204
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 804, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642719529, 'text': 'https://chat.whatsapp.com/IKnziRCgtsq92UuwJJ6rWE', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 805, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642726730, 'text': 'https://chat.whatsapp.com/EnpzQAHtY1T0taCsiHjEr2', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 806, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642733932, 'text': 'https://chat.whatsapp.com/DYoX9lcxiE3GCw6oiihq17', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 807, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642741133, 'text': 'https://chat.whatsapp.com/FBeP2BM693w7p9zj4dyVb7', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 808, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642748334, 'text': 'https://chat.whatsapp.com/I9SMsq3eUY8EULYpqBCkrn', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 809, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642755536, 'text': 'https://chat.whatsapp.com/LqP4atKfHy6H73rZKTpibf', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 810, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642762737, 'text': 'https://chat.whatsapp.com/C5h9PGP97OOBgOmWL98sTn', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 811, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642769938, 'text': 'https://chat.whatsapp.com/IxkkeqQQd0G8ILxVtNIRcc', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 812, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642777140, 'text': 'https://chat.whatsapp.com/IFbBtGBoCvFBefPCjRfOqy', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 813, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642784341, 'text': 'https://chat.whatsapp.com/FXmquJEhilpCSoDgbtyRNJ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 814, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642791543, 'text': 'https://chat.whatsapp.com/H1AycfDpwpq4yI81P3H0aW', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 815, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642798744, 'text': 'https://chat.whatsapp.com/ILWU9rQJ8FbKCwZVhlevAz', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 816, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642805945, 'text': 'https://chat.whatsapp.com/KZb6BN69NTfJRHXvrDdqqQ', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 817, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642813147, 'text': 'https://chat.whatsapp.com/D2JprQP8u12HM8Ge3vKXSM', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 818, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642820348, 'text': 'https://chat.whatsapp.com/JlYb8XS3Rtt6Z6NkZzMKym', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 819, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642827549, 'text': 'https://chat.whatsapp.com/F4bot4VTi1JKB6v9O8XKFR', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 820, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642834751, 'text': 'https://chat.whatsapp.com/DQB4rcjChVk4PmAhPbS87I', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 821, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642841952, 'text': 'https://chat.whatsapp.com/J45Q3rTZKJkEFVATlIozZ1', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 822, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642849153, 'text': 'https://chat.whatsapp.com/1P8dfumuQO949NYyH3Awmq', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 823, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642856354, 'text': 'https://chat.whatsapp.com/KqLMOOOk88sHMKzDCEKzVH', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 824, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642863556, 'text': 'https://chat.whatsapp.com/Jf1FP0mMHAOGwBJ1eeWMdS', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 825, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642870757, 'text': 'https://chat.whatsapp.com/LVBfpBOOETuGZGFQgKkYw8', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 826, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642877959, 'text': 'https://chat.whatsapp.com/HdmsDJRVzseE0QEWhwD949', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 827, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642885160, 'text': 'https://chat.whatsapp.com/B9I8J9u6XrpKSIS61rnf4D', 'entities': [{'offset': 0, 'length': 48, 'type': 'url'}]}}]
+fire
+init
+29279
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 841, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642980702, 'text': 'https://zapgrupos.xyz/Amizade/6196733535bf3739b9cf823b', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 842, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642987903, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61967a1f35bf3739b9cf89da', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 843, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1642995105, 'text': 'https://zapgrupos.xyz/Links/619695b135bf3739b9cfa765', 'entities': [{'offset': 0, 'length': 52, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 844, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643002306, 'text': 'https://zapgrupos.xyz/Educação/61b866c002c1764b16bb21c6', 'entities': [{'offset': 0, 'length': 55, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 845, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643009507, 'text': 'https://zapgrupos.xyz/Amizade/61dd2e9945b3d830e9957565', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 846, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643016709, 'text': 'https://zapgrupos.xyz/Memes,-Engraçados-e-Zoeira/61b86ee902c1764b16bb2752', 'entities': [{'offset': 0, 'length': 73, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 847, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643023910, 'text': 'https://zapgrupos.xyz/Vagas-de-Empregos/61967b2635bf3739b9cf8aca', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 848, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643031111, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61ae7c143556527ecbc7a8e2', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 849, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643038313, 'text': 'https://zapgrupos.xyz/Amizade/61dd2e9e45b3d830e995756b', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 850, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643045514, 'text': 'https://zapgrupos.xyz/Amizade/619e127599ebb405e7169e19', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29279
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 851, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643052716, 'text': 'https://zapgrupos.xyz/Amizade/61cdb6bebeb2b3096deedb31', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29184
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 852, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643059918, 'text': 'https://zapgrupos.xyz/Amor-e-Romance/61cdbd26beb2b3096deee16e', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 853, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643067119, 'text': 'https://zapgrupos.xyz/Amizade/61de85b8c6ac1f46c862e38b', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 854, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643074321, 'text': 'https://zapgrupos.xyz/Figurinhas-e-Stickers/61b869c802c1764b16bb23c4', 'entities': [{'offset': 0, 'length': 68, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 855, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643081522, 'text': 'https://zapgrupos.xyz/Música/61ae75d83556527ecbc7a530', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 856, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643088723, 'text': 'https://zapgrupos.xyz/Amizade/61dd2cc145b3d830e9957417', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 857, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643095925, 'text': 'https://zapgrupos.xyz/Desenhos-e-Animes/61cdc317beb2b3096deee78e', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 858, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643103126, 'text': 'https://zapgrupos.xyz/Amizade/619e1e7c99ebb405e716a93c', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 859, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643110327, 'text': 'https://zapgrupos.xyz/Investimentos-e-Finanças/619e24b699ebb405e716ae90', 'entities': [{'offset': 0, 'length': 71, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 860, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643117529, 'text': 'https://zapgrupos.xyz/Fãs/6199f075c36275564c0c5cb9', 'entities': [{'offset': 0, 'length': 50, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 861, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643124730, 'text': 'https://zapgrupos.xyz/Outros/61ae7de83556527ecbc7a9de', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 862, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643131931, 'text': 'https://zapgrupos.xyz/Receitas/619e385199ebb405e716c040', 'entities': [{'offset': 0, 'length': 55, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 863, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643139133, 'text': 'https://zapgrupos.xyz/Amizade/6196732135bf3739b9cf8223', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 864, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643146334, 'text': 'https://zapgrupos.xyz/Compra-e-Venda/6199ee46c36275564c0c5abe', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 865, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643153536, 'text': 'https://zapgrupos.xyz/Amizade/6199e35ac36275564c0c5125', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 866, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643160737, 'text': 'https://zapgrupos.xyz/Compra-e-Venda/61ae8d773556527ecbc7b36d', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 867, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643167938, 'text': 'https://zapgrupos.xyz/Amizade/619e43b599ebb405e716c939', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 868, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643175140, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/619677ea35bf3739b9cf8760', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 869, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643182341, 'text': 'https://zapgrupos.xyz/Fãs/6199e4e1c36275564c0c5223', 'entities': [{'offset': 0, 'length': 50, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 870, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643189542, 'text': 'https://zapgrupos.xyz/Compra-e-Venda/61b866f202c1764b16bb21f4', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 871, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643196744, 'text': 'https://zapgrupos.xyz/Compra-e-Venda/619a0bc3c36275564c0c666b', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 872, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643203945, 'text': 'https://zapgrupos.xyz/Outros/619e5de599ebb405e716dd2d', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 873, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643211146, 'text': 'https://zapgrupos.xyz/Amor-e-Romance/619699a335bf3739b9cfab06', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 874, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643218348, 'text': 'https://zapgrupos.xyz/Compra-e-Venda/619e297f99ebb405e716b34d', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 875, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643225549, 'text': 'https://zapgrupos.xyz/Educação/614275cf1dbe863be63f0dc3', 'entities': [{'offset': 0, 'length': 55, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 876, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643232751, 'text': 'https://zapgrupos.xyz/Figurinhas-e-Stickers/61cdba04beb2b3096deede4c', 'entities': [{'offset': 0, 'length': 68, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 877, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643239953, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61b86b1d02c1764b16bb24a9', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 878, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643247154, 'text': 'https://zapgrupos.xyz/Outros/61ae7ddd3556527ecbc7a9d1', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 879, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643254355, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/619e120199ebb405e7169da1', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 880, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643261557, 'text': 'https://zapgrupos.xyz/Desenhos-e-Animes/61b86d2202c1764b16bb2609', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 881, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643268758, 'text': 'https://zapgrupos.xyz/Amizade/61591577dfbb8e36d2255207', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 882, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643275959, 'text': 'https://zapgrupos.xyz/Amizade/61ae88713556527ecbc7b074', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 883, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643283161, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61cdc19dbeb2b3096deee60c', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 884, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643290362, 'text': 'https://zapgrupos.xyz/Eventos/61967d7735bf3739b9cf8cad', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 885, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643297563, 'text': 'https://zapgrupos.xyz/Compra-e-Venda/61dd31c145b3d830e9957821', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 886, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643304765, 'text': 'https://zapgrupos.xyz/Emagrecimento-e-Perda-de-Peso/619e176499ebb405e716a305', 'entities': [{'offset': 0, 'length': 76, 'type': 'url'}]}}]
+fire
+init
+29031
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 887, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643311966, 'text': 'https://zapgrupos.xyz/Negócios-&amp;-Empreendedorismo/619e510599ebb405e716d325', 'entities': [{'offset': 0, 'length': 78, 'type': 'url'}]}}]
+fire
+init
+28991
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 888, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643319168, 'text': 'https://zapgrupos.xyz/Redes-Sociais/61dd3d6745b3d830e99581f5', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+28894
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 889, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643326369, 'text': 'https://zapgrupos.xyz/Amizade/61dd2bfd45b3d830e99573a5', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+28205
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 890, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643333570, 'text': 'https://zapgrupos.xyz/Amizade/61cdc0bcbeb2b3096deee51e', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+28106
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 891, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643340772, 'text': 'https://zapgrupos.xyz/Amizade/6196993735bf3739b9cfaaa0', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+28106
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 892, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643347973, 'text': 'https://zapgrupos.xyz/Figurinhas-e-Stickers/619e5d1699ebb405e716dc9a', 'entities': [{'offset': 0, 'length': 68, 'type': 'url'}]}}]
+fire
+init
+28106
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 893, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643355175, 'text': 'https://zapgrupos.xyz/Amizade/61ae7c803556527ecbc7a923', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+28106
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 894, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643362376, 'text': 'https://zapgrupos.xyz/Amizade/619e1e7a99ebb405e716a93a', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+28106
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 895, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643369577, 'text': 'https://zapgrupos.xyz/Amizade/61b8669902c1764b16bb219e', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+28106
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 896, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643376779, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/619e1eca99ebb405e716a975', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+28106
