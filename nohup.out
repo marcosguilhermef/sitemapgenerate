@@ -842,3 +842,707 @@ init
 fire
 init
 28106
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 897, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643383980, 'text': 'https://zapgrupos.xyz/Amizade/61ae85453556527ecbc7ae4f', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+28106
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 898, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643391182, 'text': 'https://zapgrupos.xyz/Amizade/619dd30f99ebb405e716981c', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+28106
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 899, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643398383, 'text': 'https://zapgrupos.xyz/Amizade/61cdc5e5beb2b3096deeea66', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+28106
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 900, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643405584, 'text': 'https://zapgrupos.xyz/Amizade/61ae870c3556527ecbc7af84', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+28106
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 901, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643412786, 'text': 'https://zapgrupos.xyz/Figurinhas-e-Stickers/61b867d202c1764b16bb2248', 'entities': [{'offset': 0, 'length': 68, 'type': 'url'}]}}]
+fire
+init
+28106
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 902, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643419987, 'text': 'https://zapgrupos.xyz/Amizade/619e448c99ebb405e716c9e1', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+28106
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 903, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643427188, 'text': 'https://zapgrupos.xyz/Redes-Sociais/61b8659302c1764b16bb20f9', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+28079
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 904, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643434390, 'text': 'https://zapgrupos.xyz/Futebol/619e1f4099ebb405e716a9c6', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+28027
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 905, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643441591, 'text': 'https://zapgrupos.xyz/Negócios-&amp;-Empreendedorismo/6199ee58c36275564c0c5ace', 'entities': [{'offset': 0, 'length': 78, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 906, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643448793, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/619e255b99ebb405e716af34', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 907, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643455994, 'text': 'https://zapgrupos.xyz/Memes,-Engraçados-e-Zoeira/619e393c99ebb405e716c11e', 'entities': [{'offset': 0, 'length': 73, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 908, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643463195, 'text': 'https://zapgrupos.xyz/Redes-Sociais/6196883235bf3739b9cf98b1', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 909, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643470397, 'text': 'https://zapgrupos.xyz/Redes-Sociais/61cdbe01beb2b3096deee254', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 910, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643477598, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/619e2c6299ebb405e716b5e2', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 911, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643484799, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61967afa35bf3739b9cf8aa1', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 912, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643492001, 'text': 'https://zapgrupos.xyz/Amizade/619dc7df99ebb405e71693c3', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 913, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643499202, 'text': 'https://zapgrupos.xyz/Política/61968ec535bf3739b9cf9fdf', 'entities': [{'offset': 0, 'length': 55, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 914, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643506404, 'text': 'https://zapgrupos.xyz/Redes-Sociais/619e4e5399ebb405e716d107', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 915, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643513605, 'text': 'https://zapgrupos.xyz/Fãs/61ae8d333556527ecbc7b34c', 'entities': [{'offset': 0, 'length': 50, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 916, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643520807, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61b86f5202c1764b16bb27a0', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 917, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643528008, 'text': 'https://zapgrupos.xyz/Vagas-de-Empregos/619e215899ebb405e716ab6a', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 918, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643535209, 'text': 'https://zapgrupos.xyz/Amizade/619e1f8f99ebb405e716a9f9', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 919, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643542410, 'text': 'https://zapgrupos.xyz/Amizade/61cdc175beb2b3096deee5da', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 920, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643549612, 'text': 'https://zapgrupos.xyz/Amizade/6199e361c36275564c0c512d', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 921, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643556813, 'text': 'https://zapgrupos.xyz/Investimentos-e-Finanças/619e24b899ebb405e716ae92', 'entities': [{'offset': 0, 'length': 71, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 922, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643564014, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/619e34cc99ebb405e716bd39', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 923, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643571216, 'text': 'https://zapgrupos.xyz/Amizade/616cbaa87f79b00f0aa35c9a', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 924, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643578417, 'text': 'https://zapgrupos.xyz/Memes,-Engraçados-e-Zoeira/61de88a1c6ac1f46c862e48b', 'entities': [{'offset': 0, 'length': 73, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 925, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643585618, 'text': 'https://zapgrupos.xyz/Amizade/61cdb5b4beb2b3096deeda80', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 926, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643592820, 'text': 'https://zapgrupos.xyz/Amizade/6196922635bf3739b9cfa3ad', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 927, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643600021, 'text': 'https://zapgrupos.xyz/Amizade/619e4ab399ebb405e716ce28', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 928, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643607222, 'text': 'https://zapgrupos.xyz/Amizade/614275e01dbe863be63f0e2a', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 929, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643614424, 'text': 'https://zapgrupos.xyz/Filmes-e-Séries/61999d89c36275564c0c45ab', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 930, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643621625, 'text': 'https://zapgrupos.xyz/Fãs/61cdc5f6beb2b3096deeea7a', 'entities': [{'offset': 0, 'length': 50, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 931, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643628826, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/619696f735bf3739b9cfa8da', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+27985
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 932, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643636028, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/619e15bf99ebb405e716a150', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+29480
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 933, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643643229, 'text': 'https://zapgrupos.xyz/Redes-Sociais/6196709d35bf3739b9cf7f93', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+35124
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 934, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643650431, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61968de435bf3739b9cf9ed1', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+35127
+[{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was kicked from the supergroup chat'}, {'ok': True, 'result': {'message_id': 935, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643657632, 'text': 'https://zapgrupos.xyz/Notícias/61968d4d35bf3739b9cf9e3e', 'entities': [{'offset': 0, 'length': 55, 'type': 'url'}]}}]
+fire
+init
+35128
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 936, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643664834, 'text': 'https://zapgrupos.xyz/Amizade/61cdb51dbeb2b3096deeda17', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+35128
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 937, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643672035, 'text': 'https://zapgrupos.xyz/Amizade/61969c1035bf3739b9cfadcc', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+35128
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 938, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643679236, 'text': 'https://zapgrupos.xyz/Amizade/61967abb35bf3739b9cf8a79', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+35128
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 939, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643686437, 'text': 'https://zapgrupos.xyz/Música/61cdb5a1beb2b3096deeda70', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+35128
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 940, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643693639, 'text': 'https://zapgrupos.xyz/Redes-Sociais/6196702435bf3739b9cf7f0c', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+35128
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 941, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643700840, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61f7fc01bf285c263fe823e2', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+35128
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 942, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643708041, 'text': 'https://zapgrupos.xyz/Música/619e2c7499ebb405e716b5f1', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+35128
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 943, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643715243, 'text': 'https://zapgrupos.xyz/Outros/61dd367945b3d830e9957c52', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+35128
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 944, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643722444, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/61cdbe11beb2b3096deee262', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+35128
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 945, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643729645, 'text': 'https://zapgrupos.xyz/Amizade/61dd376e45b3d830e9957d3d', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+35128
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 946, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643736847, 'text': 'https://zapgrupos.xyz/Compra-e-Venda/619a0bedc36275564c0c6693', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+32772
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 947, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643744048, 'text': 'https://zapgrupos.xyz/Amizade/619e30cf99ebb405e716b9a7', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32648
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 948, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643751250, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61ae7c243556527ecbc7a8e7', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 949, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643758451, 'text': 'https://zapgrupos.xyz/Amizade/6142758e1dbe863be63f0c3a', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 950, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643765652, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/619a0b94c36275564c0c663b', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 951, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643772854, 'text': 'https://zapgrupos.xyz/Redes-Sociais/61f80a1bbf285c263fe8301e', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 952, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643780055, 'text': 'https://zapgrupos.xyz/Educação/61b866d302c1764b16bb21d5', 'entities': [{'offset': 0, 'length': 55, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 953, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643787257, 'text': 'https://zapgrupos.xyz/Amizade/619e1eae99ebb405e716a966', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 954, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643794458, 'text': 'https://zapgrupos.xyz/Amizade/61967e3835bf3739b9cf8d7c', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 955, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643801659, 'text': 'https://zapgrupos.xyz/Amizade/619e3a5599ebb405e716c1f2', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 956, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643808861, 'text': 'https://zapgrupos.xyz/Vagas-de-Empregos/616cb98a7f79b00f0aa359c5', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 957, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643816062, 'text': 'https://zapgrupos.xyz/Desenhos-e-Animes/619e1ddc99ebb405e716a8c1', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 958, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643823263, 'text': 'https://zapgrupos.xyz/Amizade/619e367e99ebb405e716beb8', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 959, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643830465, 'text': 'https://zapgrupos.xyz/Desenhos-e-Animes/61cdbd35beb2b3096deee17c', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 960, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643837666, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61f81374bf285c263fe838c0', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 961, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643844867, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/61ae8da03556527ecbc7b38d', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 962, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643852069, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61f80792bf285c263fe82de2', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 963, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643859270, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61f7fc04bf285c263fe823e6', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+32559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 964, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643866472, 'text': 'https://zapgrupos.xyz/Amizade/61dd3c9245b3d830e9958137', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32560
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 965, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643873673, 'text': 'https://zapgrupos.xyz/Desenhos-e-Animes/6196727c35bf3739b9cf8170', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+32560
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 966, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643880874, 'text': 'https://zapgrupos.xyz/Outros/61cdb7ccbeb2b3096deedc12', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+32560
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 967, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643888075, 'text': 'https://zapgrupos.xyz/Redes-Sociais/61968fda35bf3739b9cfa117', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+32533
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 968, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643895277, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/619677e035bf3739b9cf8753', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+32319
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 969, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643902478, 'text': 'https://zapgrupos.xyz/Amizade/61f7fbc9bf285c263fe823cb', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32284
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 970, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643909679, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/619e16c999ebb405e716a26a', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+32246
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 971, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643916881, 'text': 'https://zapgrupos.xyz/Outros/619e173d99ebb405e716a2dd', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 972, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643924082, 'text': 'https://zapgrupos.xyz/Amizade/619a0933c36275564c0c641d', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 973, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643931284, 'text': 'https://zapgrupos.xyz/Fãs/61967ba835bf3739b9cf8b28', 'entities': [{'offset': 0, 'length': 50, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 974, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643938485, 'text': 'https://zapgrupos.xyz/Fãs/6196766235bf3739b9cf85e3', 'entities': [{'offset': 0, 'length': 50, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 975, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643945687, 'text': 'https://zapgrupos.xyz/Amizade/61f80949bf285c263fe82f4c', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 976, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643952888, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/619e2bf999ebb405e716b592', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 977, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643960090, 'text': 'https://zapgrupos.xyz/Viagem-e-Turismo/6196752b35bf3739b9cf8478', 'entities': [{'offset': 0, 'length': 63, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 978, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643967291, 'text': 'https://zapgrupos.xyz/Memes,-Engraçados-e-Zoeira/61b86e2402c1764b16bb26bc', 'entities': [{'offset': 0, 'length': 73, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 979, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643974492, 'text': 'https://zapgrupos.xyz/Futebol/619e243f99ebb405e716ae17', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 980, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643981694, 'text': 'https://zapgrupos.xyz/Compra-e-Venda/6196861235bf3739b9cf9680', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 981, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643988895, 'text': 'https://zapgrupos.xyz/Esportes/6199ed02c36275564c0c5974', 'entities': [{'offset': 0, 'length': 55, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 982, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1643996096, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/61cdba2abeb2b3096deede7c', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 983, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644003298, 'text': 'https://zapgrupos.xyz/Educação/619e293799ebb405e716b306', 'entities': [{'offset': 0, 'length': 55, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 984, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644010499, 'text': 'https://zapgrupos.xyz/Amizade/61ae83523556527ecbc7ad23', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 985, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644017701, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/61ae80e63556527ecbc7ab81', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 986, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644024902, 'text': 'https://zapgrupos.xyz/Redes-Sociais/61dd2e1a45b3d830e9957500', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 987, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644032103, 'text': 'https://zapgrupos.xyz/Figurinhas-e-Stickers/61ae7ea43556527ecbc7aa4e', 'entities': [{'offset': 0, 'length': 68, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 988, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644039304, 'text': 'https://zapgrupos.xyz/Amizade/61dd34fb45b3d830e9957af0', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 989, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644046506, 'text': 'https://zapgrupos.xyz/Namoro/61cdb814beb2b3096deedc66', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 990, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644053707, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61f819a0bf285c263fe83e29', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 991, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644060908, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/619e1e9499ebb405e716a950', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 992, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644068110, 'text': 'https://zapgrupos.xyz/Amizade/619e1cc899ebb405e716a7be', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 993, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644075311, 'text': 'https://zapgrupos.xyz/Amor-e-Romance/61de89dac6ac1f46c862e4ee', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 994, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644082512, 'text': 'https://zapgrupos.xyz/Amizade/61f801bcbf285c263fe8287b', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32222
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 995, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644089714, 'text': 'https://zapgrupos.xyz/Amizade/61ae7b1d3556527ecbc7a852', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+32210
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 996, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644096915, 'text': 'https://zapgrupos.xyz/Negócios-&amp;-Empreendedorismo/619689ae35bf3739b9cf9a4c', 'entities': [{'offset': 0, 'length': 78, 'type': 'url'}]}}]
+fire
+init
+31994
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 997, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644104117, 'text': 'https://zapgrupos.xyz/Amizade/61b86a1502c1764b16bb23fb', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31953
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 998, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644111318, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/61b86f2702c1764b16bb277a', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+31925
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 999, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644118520, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/61cdc2e9beb2b3096deee76e', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+31906
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1000, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644125721, 'text': 'https://zapgrupos.xyz/Filmes-e-Séries/619679cc35bf3739b9cf897c', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1001, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644132922, 'text': 'https://zapgrupos.xyz/Vídeos/61ae81683556527ecbc7abe0', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1002, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644140124, 'text': 'https://zapgrupos.xyz/Amizade/61f80344bf285c263fe829ab', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1003, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644147325, 'text': 'https://zapgrupos.xyz/Investimentos-e-Finanças/619699ce35bf3739b9cfab3b', 'entities': [{'offset': 0, 'length': 71, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1004, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644154526, 'text': 'https://zapgrupos.xyz/Compra-e-Venda/616cbb0e7f79b00f0aa35db5', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1005, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644161728, 'text': 'https://zapgrupos.xyz/Profissões/6142762b1dbe863be63f0ff2', 'entities': [{'offset': 0, 'length': 57, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1006, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644168929, 'text': 'https://zapgrupos.xyz/Desenhos-e-Animes/616cbb497f79b00f0aa35e59', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1007, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644176130, 'text': 'https://zapgrupos.xyz/Negócios-&amp;-Empreendedorismo/619e17e099ebb405e716a38c', 'entities': [{'offset': 0, 'length': 78, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1008, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644183332, 'text': 'https://zapgrupos.xyz/Fãs/6199e844c36275564c0c551d', 'entities': [{'offset': 0, 'length': 50, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1009, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644190533, 'text': 'https://zapgrupos.xyz/Investimentos-e-Finanças/619e269699ebb405e716b079', 'entities': [{'offset': 0, 'length': 71, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1010, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644197734, 'text': 'https://zapgrupos.xyz/Amizade/61dd32a845b3d830e99578d0', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1011, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644204936, 'text': 'https://zapgrupos.xyz/Esportes/619e1d5899ebb405e716a842', 'entities': [{'offset': 0, 'length': 55, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1012, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644212137, 'text': 'https://zapgrupos.xyz/Amizade/619a0cafc36275564c0c6757', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1013, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644219338, 'text': 'https://zapgrupos.xyz/Figurinhas-e-Stickers/61967fcd35bf3739b9cf8f41', 'entities': [{'offset': 0, 'length': 68, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1014, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644226540, 'text': 'https://zapgrupos.xyz/Fãs/61cdc5f9beb2b3096deeea7f', 'entities': [{'offset': 0, 'length': 50, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1015, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644233741, 'text': 'https://zapgrupos.xyz/Amizade/616cbaf07f79b00f0aa35d59', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1016, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644240942, 'text': 'https://zapgrupos.xyz/Filmes-e-Séries/619dcd8c99ebb405e71695ae', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1017, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644248144, 'text': 'https://zapgrupos.xyz/Música/61ae780e3556527ecbc7a682', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1018, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644255345, 'text': 'https://zapgrupos.xyz/Amizade/61f800debf285c263fe827b5', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1019, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644262547, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61ae72f93556527ecbc7a383', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1020, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644269748, 'text': 'https://zapgrupos.xyz/Amizade/61968f9e35bf3739b9cfa0ce', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1021, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644276949, 'text': 'https://zapgrupos.xyz/Desenhos-e-Animes/61999e24c36275564c0c45e8', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1022, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644284151, 'text': 'https://zapgrupos.xyz/Namoro/619a0802c36275564c0c62ee', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1023, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644291352, 'text': 'https://zapgrupos.xyz/Futebol/61cdba48beb2b3096deede92', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1024, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644298554, 'text': 'https://zapgrupos.xyz/Amizade/6196919d35bf3739b9cfa31d', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1025, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644305755, 'text': 'https://zapgrupos.xyz/Amizade/61dd3c2145b3d830e99580d7', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1026, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644312956, 'text': 'https://zapgrupos.xyz/Amizade/619e416399ebb405e716c785', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1027, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644320158, 'text': 'https://zapgrupos.xyz/Compra-e-Venda/61ae8bf43556527ecbc7b295', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1028, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644327359, 'text': 'https://zapgrupos.xyz/Amizade/6199d7f7c36275564c0c4a71', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1029, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644334560, 'text': 'https://zapgrupos.xyz/Amizade/61ae76cb3556527ecbc7a5dd', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1030, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644341761, 'text': 'https://zapgrupos.xyz/Esportes/615fbf494176804f0ca9736b', 'entities': [{'offset': 0, 'length': 55, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1031, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644348963, 'text': 'https://zapgrupos.xyz/Amor-e-Romance/619e0e3799ebb405e7169a1b', 'entities': [{'offset': 0, 'length': 61, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1032, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644356164, 'text': 'https://zapgrupos.xyz/Amizade/619a0d71c36275564c0c6817', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31900
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1033, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644363366, 'text': 'https://zapgrupos.xyz/Redes-Sociais/61cdc60bbeb2b3096deeea93', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+31696
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1034, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644370567, 'text': 'https://zapgrupos.xyz/Educação/619672d735bf3739b9cf81d4', 'entities': [{'offset': 0, 'length': 55, 'type': 'url'}]}}]
+fire
+init
+31605
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1035, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644377768, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/616cba267f79b00f0aa35b5b', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+31559
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1036, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644384970, 'text': 'https://zapgrupos.xyz/Amizade/61f7fc6abf285c263fe8240f', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1037, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644392171, 'text': 'https://zapgrupos.xyz/Amizade/619679c835bf3739b9cf8978', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1038, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644399373, 'text': 'https://zapgrupos.xyz/Amizade/61967d9135bf3739b9cf8cc7', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1039, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644406574, 'text': 'https://zapgrupos.xyz/Amizade/619e424799ebb405e716c841', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1040, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644413775, 'text': 'https://zapgrupos.xyz/Links/619683cc35bf3739b9cf93d4', 'entities': [{'offset': 0, 'length': 52, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1041, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644420977, 'text': 'https://zapgrupos.xyz/Amizade/61cdb612beb2b3096deedaa5', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1042, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644428178, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/61dd3b5845b3d830e9958000', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1043, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644435380, 'text': 'https://zapgrupos.xyz/Futebol/61967c5c35bf3739b9cf8ba7', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1044, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644442581, 'text': 'https://zapgrupos.xyz/Esportes/619e221399ebb405e716ac1b', 'entities': [{'offset': 0, 'length': 55, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1045, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644449782, 'text': 'https://zapgrupos.xyz/Desenhos-e-Animes/6196731f35bf3739b9cf8221', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1046, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644456984, 'text': 'https://zapgrupos.xyz/Futebol/61f80230bf285c263fe828d6', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1047, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644464185, 'text': 'https://zapgrupos.xyz/Amizade/61cdbd4cbeb2b3096deee19a', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1048, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644471387, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/615fbffb4176804f0ca97501', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1049, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644478588, 'text': 'https://zapgrupos.xyz/Amizade/61dd3cfd45b3d830e99581a1', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1050, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644485789, 'text': 'https://zapgrupos.xyz/Emagrecimento-e-Perda-de-Peso/6196958435bf3739b9cfa72e', 'entities': [{'offset': 0, 'length': 76, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1051, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644492991, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/619e576e99ebb405e716d80d', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1052, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644500192, 'text': 'https://zapgrupos.xyz/Desenhos-e-Animes/6196768735bf3739b9cf85fa', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1053, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644507393, 'text': 'https://zapgrupos.xyz/TV/6199f17cc36275564c0c5db2', 'entities': [{'offset': 0, 'length': 49, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1054, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644514595, 'text': 'https://zapgrupos.xyz/Memes,-Engraçados-e-Zoeira/619e3e0699ebb405e716c4b8', 'entities': [{'offset': 0, 'length': 73, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1055, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644521796, 'text': 'https://zapgrupos.xyz/Amizade/61f81554bf285c263fe83a8e', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1056, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644528997, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61cdbfa2beb2b3096deee3f8', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1057, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644536199, 'text': 'https://zapgrupos.xyz/Amizade/61de85b4c6ac1f46c862e382', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1058, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644543400, 'text': 'https://zapgrupos.xyz/Games-e-Jogos/61968b6835bf3739b9cf9c64', 'entities': [{'offset': 0, 'length': 60, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1059, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644550602, 'text': 'https://zapgrupos.xyz/Desenhos-e-Animes/6199e235c36275564c0c503c', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1060, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644557803, 'text': 'https://zapgrupos.xyz/Amizade/61ae842f3556527ecbc7ad84', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1061, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644565004, 'text': 'https://zapgrupos.xyz/Desenhos-e-Animes/61dd2f9845b3d830e995762b', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1062, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644572206, 'text': 'https://zapgrupos.xyz/Amizade/6199e646c36275564c0c5324', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1063, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644579407, 'text': 'https://zapgrupos.xyz/Desenhos-e-Animes/61f80b2bbf285c263fe83103', 'entities': [{'offset': 0, 'length': 64, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1064, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644586609, 'text': 'https://zapgrupos.xyz/Outros/61ae7d2c3556527ecbc7a991', 'entities': [{'offset': 0, 'length': 53, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1065, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644593810, 'text': 'https://zapgrupos.xyz/Amizade/619e2ab399ebb405e716b485', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1066, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644601011, 'text': 'https://zapgrupos.xyz/TV/61f8068bbf285c263fe82ce4', 'entities': [{'offset': 0, 'length': 49, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1067, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644608213, 'text': 'https://zapgrupos.xyz/Fãs/6199a07bc36275564c0c46f2', 'entities': [{'offset': 0, 'length': 50, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1068, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644615414, 'text': 'https://zapgrupos.xyz/Amizade/619e18ad99ebb405e716a437', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1069, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644622615, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/6199ece3c36275564c0c595b', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1070, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644629817, 'text': 'https://zapgrupos.xyz/Ganhar-Dinheiro/619683ab35bf3739b9cf93ac', 'entities': [{'offset': 0, 'length': 62, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1071, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644637018, 'text': 'https://zapgrupos.xyz/Amizade/61ae7e4b3556527ecbc7aa0d', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
+[{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}, {'ok': True, 'result': {'message_id': 1072, 'sender_chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'chat': {'id': -1001703894032, 'title': 'Links de grupos telegram e whatsapp', 'username': 'wpgruposc', 'type': 'channel'}, 'date': 1644644219, 'text': 'https://zapgrupos.xyz/Amizade/61999d5ec36275564c0c45a3', 'entities': [{'offset': 0, 'length': 54, 'type': 'url'}]}}]
+fire
+init
+31556
