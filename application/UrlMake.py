@@ -11,7 +11,7 @@ class UrlMake:
 
     def generate_url(self):
         arr = []
-        for i in self.URL.select_all_active_urls():
+        for i in self.URL.select_all_urls():
             try:
                 data = i["updated_at"]
             except KeyError:

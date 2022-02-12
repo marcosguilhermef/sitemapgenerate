@@ -7,7 +7,7 @@ while True:
     T = application.EnviarLinkTelegram.EnviarLinkTelegram()
 
     print(T.run())
-    time.sleep(3600)
+    time.sleep(7200)
 
     print("fire")
     #T = application.EnviarLinkTelegram.EnviarLinkTelegram()
