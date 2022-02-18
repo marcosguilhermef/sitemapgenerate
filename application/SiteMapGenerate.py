@@ -11,7 +11,6 @@ class SiteMapGenerate:
     def save(self, nameFile):
         r = open(f'{config["SAVE_IMAGE_DIRECTORY"]}/{nameFile}.xml', "a")
         bs = BeautifulSoup(self.str, 'xml')
-        pretty_xml = bs.prettify()
         r.write(self.str)
         r.close()
 
