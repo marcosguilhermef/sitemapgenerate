@@ -9,10 +9,10 @@ class SiteMapGenerate:
         self.NumberFiles = None
 
     def save(self, nameFile):
-        r = open(f'{config["SAVE_IMAGE_DIRECTORY"]}/{nameFile}.xml', "a+")
+        r = open(f'{config["SAVE_IMAGE_DIRECTORY"]}/{nameFile}.xml', "a")
         bs = BeautifulSoup(self.str, 'xml')
         pretty_xml = bs.prettify()
-        r.write(pretty_xml)
+        r.write(self.str)
         r.close()
 
     def xml_wirite(self):
@@ -46,16 +46,5 @@ class SiteMapGenerate:
                             <priority>1.0</priority>\
                         </url>"
             self.str = str + "</urlset>"
-            self.save(f'sitmep_{i}')
+            self.save(f'sitemap_{i}')
 
-        """for i in url.generate_url():
-            str = str+"\
-                  <url>\
-                        <loc>"+i["url"]+"</loc>\
-                        <lastmod>"+i["lastmod"]+"</lastmod>\
-                        <changefreq>daily</changefreq>\
-                        <priority>1.0</priority>\
-                  </url>"
-        self.str = str + "</urlset>"
-        self.save()"""
-        return self.str
