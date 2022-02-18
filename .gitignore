@@ -5,3 +5,4 @@
 /nohup.out
 /.env
 ./*.xml
+*.xml
