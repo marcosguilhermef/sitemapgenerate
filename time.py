@@ -6,7 +6,7 @@ while True:
 
     T = application.EnviarLinkTelegram.EnviarLinkTelegram()
 
-    print(T.run())
+    print(T.run2())
     time.sleep(6400)
     print("fire")
 

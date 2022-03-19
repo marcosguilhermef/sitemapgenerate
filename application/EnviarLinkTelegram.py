@@ -27,8 +27,8 @@ class EnviarLinkTelegram:
         for i in chat_id:
             message = {
                 "chat_id": i,
-                "text": f"{i} "
-                        f"Vc sabia que agora temo aplicativo! Baixe agora mesmo o nosso app para ter acesso a mais links de WhatsApp e Telegram!",
+                "text": f"{url}\n"
+                        f"Vc sabia que agora temo aplicativo! Baixe agora mesmo o nosso app para ter acesso a mais links de WhatsApp e Telegram!\nhttps://play.google.com/store/apps/details?id=com.origin.zapgrupos",
                 "disable_web_page_preview": False
             }
             T.append(application.TelegramBot.TelegramBot().sendMessage(message).getResponse().json())
