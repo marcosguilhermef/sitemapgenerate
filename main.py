@@ -8,4 +8,4 @@ if arg[1] == "-w":
     A.xml_wirite()
 elif arg[1] == "-s":
     T = application.EnviarLinkTelegram.EnviarLinkTelegram()
-    print(T.run())
+    print(T.run2())

@@ -39,7 +39,7 @@ class UrlMake:
         url = "https://zapgrupos.xyz/" + re.sub("\&","&amp;",re.sub(" ","-", register[0]["categoria"])) + "/" + str(register[0]["_id"])
         return url
 
-    def get_url_whatsapp(self):
+    def get_one_url_whatsapp(self):
         register = list(self.URL.select_randon_active_urls())
         url = register[0]["url"]
         return url

@@ -7,8 +7,6 @@ while True:
     T = application.EnviarLinkTelegram.EnviarLinkTelegram()
 
     print(T.run())
-    time.sleep(7200)
-
+    time.sleep(6400)
     print("fire")
-    #T = application.EnviarLinkTelegram.EnviarLinkTelegram()
-    #print(T.run().json())
+
