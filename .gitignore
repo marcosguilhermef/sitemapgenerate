@@ -1,8 +1,7 @@
-.env
 /sitemap.xml
 /*/__pycache__
 /*/__pycache__/*
 /nohup.out
-/.env
-./*.xml
-*.xml
+/*.xml
+.env
+.env.test
