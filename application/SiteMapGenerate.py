@@ -8,15 +8,14 @@ class SiteMapGenerate:
     def __init__(self):
         self.NumberFiles = None
 
-    def save(self, nameFile):
+    def save(self, nameFile,str):
         r = open(f'{config["SAVE_IMAGE_DIRECTORY"]}/{nameFile}.xml', "a")
-        bs = BeautifulSoup(self.str, 'xml')
-        r.write(self.str)
+        bs = BeautifulSoup(str, 'xml')
+        r.write(str)
         r.close()
 
     def xml_wirite(self):
         url = application.UrlMake.UrlMake()
-        str = "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">"
         urls = url.generate_url()
         TotalUrls = len(urls)
         self.NumberFiles = 0
@@ -29,11 +28,11 @@ class SiteMapGenerate:
         for i in range(0, self.NumberFiles):
             start = i * 50000
             final = (i + 1) * 50000
-
+            str = "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">"
             for x in range(start, final):
                 try:
-                    print(i)
                     print(urls[x])
+                    print(x)
                 except IndexError:
                     print("final")
                     break
@@ -44,6 +43,7 @@ class SiteMapGenerate:
                             <changefreq>daily</changefreq>\
                             <priority>1.0</priority>\
                         </url>"
-            self.str = str + "</urlset>"
-            self.save(f'sitemap_{i}')
+            str = str + "</urlset>"
+            self.save(f'sitemap_{i}', str)
+            str = ""
 
