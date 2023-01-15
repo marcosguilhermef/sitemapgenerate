@@ -14,7 +14,7 @@ class EnviarLinkTelegram:
         for i in chat_id:
             message = {
                 "chat_id": i,
-                "text": url,
+                "text": f"{url}",
                 "disable_web_page_preview": False
             }
             T.append(application.TelegramBot.TelegramBot().sendMessage(message).getResponse().json())
@@ -23,12 +23,11 @@ class EnviarLinkTelegram:
         URL = application.UrlMake.UrlMake()
         chat_id = ["-1001703894032"]
         T = []
-        url = URL.get_one_url_whatsapp()
+        url = URL.generate_one_url()
         for i in chat_id:
             message = {
                 "chat_id": i,
-                "text": f"{url}\n"
-                        f"Vc sabia que agora temos aplicativo! Baixe agora mesmo o nosso app para ter acesso a mais links de WhatsApp e Telegram!\nhttps://play.google.com/store/apps/details?id=com.origin.zapgrupos",
+                "text": f"{url}",
                 "disable_web_page_preview": False
             }
             T.append(application.TelegramBot.TelegramBot().sendMessage(message).getResponse().json())

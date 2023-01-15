@@ -10,7 +10,7 @@ class SiteMapGenerate:
 
     def save(self, nameFile):
         r = open(f'{config["SAVE_IMAGE_DIRECTORY"]}/{nameFile}.xml', "a")
-        bs = BeautifulSoup(self.str, 'xml')
+        #bs = BeautifulSoup(self.str, 'xml')
         r.write(self.str)
         r.close()
 
@@ -46,4 +46,4 @@ class SiteMapGenerate:
                         </url>"
             self.str = str + "</urlset>"
             self.save(f'sitemap_{i}')
-
+        str = ""
